@@ -1,0 +1,221 @@
+{
+	"data": [
+		{
+			"id": "1001",
+			"name": "**Bamboo Watch 1001",
+			"description": "**Product Description",
+			"capacity": "**Accessories",
+            "niveauDeCharge": 5,
+			"statut": "****INSTOCK",
+            "equipes": [
+                {
+                    "equipe": 1001,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                },
+                {
+                    "equipe": 1002,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 1003,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 1004,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }
+            ]
+		},{
+			"id": "1002",
+			"name": "**Bamboo Watch 1002",
+			"description": "**Product Description",
+			"capacity": "**Accessories",
+            "niveauDeCharge": 5,
+			"statut": "****INSTOCK",
+            "equipes": [
+                {
+                    "equipe": 1005,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                },
+                {
+                    "equipe": 1006,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 1007,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 1008,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }
+            ]
+		},{
+			"id": "1003",
+			"name": "**Bamboo Watch 1003",
+			"description": "**Product Description",
+			"capacity": "**Accessories",
+            "niveauDeCharge": 5,
+			"statut": "****INSTOCK",
+            "equipes": [
+                {
+                    "equipe": 1009,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                },
+                {
+                    "equipe": 10010,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 10011,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 10012,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }
+            ]
+		},{
+			"id": "1004",
+			"name": "**Bamboo Watch 1004",
+			"description": "**Product Description",
+			"capacity": "**Accessories",
+            "niveauDeCharge": 5,
+			"statut": "****INSTOCK",
+            "equipes": [
+                {
+                    "equipe": 10013,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                },
+                {
+                    "equipe": 10014,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 10015,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 10016,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }
+            ]
+		},{
+			"id": "1005",
+			"name": "**Bamboo Watch 1005",
+			"description": "**Product Description",
+			"capacity": "**Accessories",
+            "niveauDeCharge": 5,
+			"statut": "****INSTOCK",
+            "equipes": [
+                {
+                    "equipe": 10017,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                },
+                {
+                    "equipe": 10018,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 10019,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }, {
+                    "equipe": 10020,
+                    "iteration": "f230fh0g3",
+                    "delais": "2020-09-13",
+                    "capacity": 65,
+                    "niveauOccupation": 1,
+                    "customer": "David James",
+                    "status": "PENDING"
+                }
+            ]
+		}
+		
+	]
+}

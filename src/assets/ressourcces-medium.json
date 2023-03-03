@@ -1,0 +1,21 @@
+{
+    "data":[
+       {
+          "id":1000,
+          "pourcentageDeCharge":80,
+          "informationSurRessource":{
+             "name":"Ioni Bowcher",
+             "image":"ionibowcher.png"
+          }
+       },
+       {
+          "id":1001,
+         "pourcentageDeCharge":40,
+          "informationSurRessource":{
+             "name":"Amy Elsner",
+             "image":"amyelsner.png"
+          }
+       }
+    ]
+  }
+  

@@ -1,0 +1,1 @@
+https://analytics.dev.azure.com/ibrahimsylla/1890c76f-0434-49b0-b510-3315b79c47d6/_odata/v3.0-preview/WorkItems?$filter=WorkItemType eq 'User Story' &$expand=AssignedTo($select=UserName),Iteration($select=IterationPath),Area($select=AreaPath)
